@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あの秋とスクールデイズ",
+  "base_artist": "おいしくるメロンパン",
+  "createdAt": "2025-12-26T05:54:41.412511Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あの秋とスクールデイズ",
+      "artist": "おいしくるメロンパン",
+      "has_synced": false,
+      "path": "select/pl_01_あの秋とスクールデイズ_おいしくるメロンパン.txt"
+    }
+  ]
+}
